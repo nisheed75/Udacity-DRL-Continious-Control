@@ -1,6 +1,6 @@
 # Udacity-DRL-Continuous-Control
 
-![Picture of the environment](images/environment.gif)
+![Picture of the environment](https://github.com/nisheed75/Udacity-DRL-Continious-Control/tree/master/images/environment.gif)
 
 # DRL - DDPG Algorithm - Reacher Continuous Control
 Udacity Deep Reinforcement Learning Nanodegree Program - Reacher Continuous Control
@@ -33,7 +33,7 @@ The barrier to solving the second version of the environment is slightly differe
 
 As an example, consider the plot below, where we have plotted the average score (overall 20 agents) obtained with each episode
 
-    ![Picture of the environment](images/udacity_results.gif)
+    ![Picture of the environment](https://github.com/nisheed75/Udacity-DRL-Continious-Control/tree/master/images/udacity_results.gif)
 
 
 The environment is considered solved when the average (over 100 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 63, since the average of the average scores from episodes 64 to 163 (inclusive) was greater than +30.
