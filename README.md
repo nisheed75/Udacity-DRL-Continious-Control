@@ -1,6 +1,6 @@
 # Udacity-DRL-Continuous-Control
 
-![Picture of the environment](../images/environment.gif)
+![Picture of the environment](https://github.com/nisheed75/Udacity-DRL-Continious-Control/blob/master/images/environement.gif)
 
 # DRL - DDPG Algorithm - Reacher Continuous Control
 Udacity Deep Reinforcement Learning Nanodegree Program - Reacher Continuous Control
