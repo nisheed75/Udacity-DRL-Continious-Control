@@ -36,6 +36,6 @@ The figure below show the perfomance and results of my model. The model performs
 
 ## future improvements
 1. Improve the DDPG alogorithm by applying Priority Experience Replay.
-..1. Using this approach will:
-...1. Reduce the training time
-...1. Improve the stability of traning  
+   1. Using this approach will:
+        - Reduce the training time
+        - Improve the stability of traning  
